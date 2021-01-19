@@ -1,6 +1,6 @@
 # Analysis of the early Covid-19 epidemic curve in Germany by regression models with change points
 
-**The code in this repository refers to an initial analysis provided in the preprint. The revised code based on reviewer comments are available here: https://zenodo.org/record/4449816**
+**The code in this repository refers to an initial analysis provided in the preprint. The revised code is available here: https://zenodo.org/record/4449816**
 
 
 This repository contains code and data needed in order to reproduce results presented in "Analysis of the early Covid-19 epidemic curve in Germany by regression models with change points".
